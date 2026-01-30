@@ -1,3 +1,6 @@
+
+<img width="2953" height="1945" alt="mcpchecker-logo" src="https://github.com/user-attachments/assets/019a3856-d0aa-4af2-80bf-b9d0315d1418" />
+
 ## mcpchecker
 
 MCPChecker is a testing framework for MCP (Model Context Protocol) servers. It helps you verify that:
